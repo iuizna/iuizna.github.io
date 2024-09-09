@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://iuizna.github.io/sitemap/sitemap.txt
